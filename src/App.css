@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+button {
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin: 20px;
+  border: 0;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 20px;
+}

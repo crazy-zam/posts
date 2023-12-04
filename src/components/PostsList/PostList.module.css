@@ -1,0 +1,5 @@
+.postlist {
+  display: grid;
+  justify-content: center;
+  /* width: 80%; */
+}

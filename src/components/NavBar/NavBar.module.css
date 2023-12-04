@@ -1,0 +1,22 @@
+.nav_bar {
+  background-color: #a6a2b1;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+.nav_link {
+  color: #f7f3f2;
+  text-decoration: none;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 2em;
+  border-radius: 5px;
+  margin: 10px 50px;
+  padding: 5px;
+  width: 70px;
+}
+.nav_link:hover {
+  background-color: #493941;
+  color: #a6a2b1;
+}

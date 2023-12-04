@@ -1,0 +1,26 @@
+.page {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+.post {
+  margin: 25px;
+  width: 85%;
+  background-color: #fff;
+  border-radius: 10px;
+  color: #493941;
+  margin: 10px;
+  padding: 15px;
+}
+
+.comments {
+  padding: 15px;
+  width: 80%;
+}
+.single_comment {
+  color: #111;
+  background-color: #a6a2b1;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}

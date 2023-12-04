@@ -1,0 +1,14 @@
+.input {
+  border-radius: 5px;
+  border: 1px solid #493941;
+  height: 30px;
+  width: 250px;
+}
+.button {
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 2em;
+}
+.button:hover {
+  background-color: #e49b35;
+  color: #fff;
+}

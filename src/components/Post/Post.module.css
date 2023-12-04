@@ -1,0 +1,49 @@
+.post {
+  background-color: #fff;
+  margin: 10px;
+  padding: 10px;
+  /* border: 3px solid #555; */
+  border-radius: 10px;
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80vw;
+  /* align-self: center; */
+  align-content: space-between;
+}
+.text {
+  display: grid;
+  width: 85%;
+}
+.title {
+  text-align: center;
+  color: #493941;
+  margin: 15px;
+}
+.body {
+  margin: 10px;
+  text-align: left;
+  color: #493941;
+}
+
+.buttons {
+  display: grid;
+  width: 10vw;
+  align-self: end;
+}
+
+.open,
+.delete {
+  line-height: 25px;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 2em;
+}
+.open:hover {
+  background-color: #67ab6d;
+  color: #fff;
+}
+
+.delete:hover {
+  background-color: #f44336;
+  color: #fff;
+}
